@@ -3,6 +3,7 @@
 /.phpunit.cache
 /build
 /coverage
+/PUBLISHING.md
 .idea
 .DS_Store
 *.log
